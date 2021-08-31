@@ -1,0 +1,25 @@
+{
+	"name": "boggl",
+	"version": "0.1.0",
+	"bin": "./dist/cli.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/npm/cli.git"
+	},
+	"author": {
+		"email": "danko@very.lv",
+		"name": "Danko Alexeyev",
+		"url": "https://kludge.guru"
+	},
+	"description": "Command line tools for Toggl",
+	"devDependencies": {
+		"commander": "^8.1.0",
+		"dayjs": "^1.10.6",
+		"node-fetch": "^2.6.1"
+	},
+	"dependencies": {
+		"@types/node": "^16.7.8",
+		"@types/node-fetch": "^2.5.12",
+		"typescript": "^4.4.2"
+	}
+}
