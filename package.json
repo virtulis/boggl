@@ -1,10 +1,10 @@
 {
 	"name": "boggl",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"bin": "./dist/cli.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/npm/cli.git"
+		"url": "https://github.com/virtulis/boggl.git"
 	},
 	"author": {
 		"email": "danko@very.lv",
